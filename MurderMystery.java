@@ -182,40 +182,6 @@ public class MurderMystery {
                                    ": Idiot. *Er erdrosselt Sie*");
                 gameOver = true;
             }
-                // who do they want to ask?
-                // display a new clue from the given Physicist
-            // else if accuse:
-                // accuse
-                // if they're right
-                    // display that they win, and end the gameOver (gameOver = true)
-                // else:
-                    // display that they lose, and end the gameOver (gameOver = true)
-            // else:
-                // print an error and try the loop again
-            // increment turn++;
-            // if turn == the given threshold for # of turns allowed:
-                // display that they lose, and end the gameOver (gameOver = true)
         }
-
-        // load the introductory file and display that to the user (make sure to
-          // decide on # of turns and tell that to the user)
-        // set boolean gameOver = false;
-        // set int turn = 0;
-        // while (!gameOver)
-            // ask the user what they want to do (ask a question or accuse)
-            // if ask a question:
-                // who do they want to ask?
-                // display a new clue from the given Physicist
-            // else if accuse:
-                // accuse
-                // if they're right
-                    // display that they win, and end the gameOver (gameOver = true)
-                // else:
-                    // display that they lose, and end the gameOver (gameOver = true)
-            // else:
-                // print an error and try the loop again
-            // increment turn++;
-            // if turn == the given threshold for # of turns allowed:
-                // display that they lose, and end the gameOver (gameOver = true)
     }
 }
